@@ -1,6 +1,6 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Kannooaa</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate Web Developer From India</h3>
 <img align="right" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshk101&label=Profile%20views&color=0e75b6&style=flat" alt="harshk101" /> </p>
 
