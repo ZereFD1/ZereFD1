@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Html,Css,Data Structure And Algorithms**
 
-- 📫 How to reach me **Harshs381@gmail.com**
+<!-- - 📫 How to reach me **Harshs381@gmail.com** -->
 
 - ⚡ Fun fact **I am learning japanese language.**
 
