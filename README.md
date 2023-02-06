@@ -7,8 +7,7 @@
 <p align="left"> <a href="https://twitter.com/@harshsxxx" target="blank"><img src="https://img.shields.io/twitter/follow/@harshsxxx?logo=twitter&style=for-the-badge" alt="@harshsxxx" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Sql,Javascript,SpringBoot**
-
-<!-- - 👨‍💻 All of my projects are available at [https://harshk101.github.io/](https://harshk101.github.io/) -->
+- 👨‍💻 All of my projects are available at [https://harshk101.github.io/](https://harshk101.github.io/)
 
 - 💬 Ask me about **Html,Css,Data Structure And Algorithms**
 
