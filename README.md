@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/@harshsxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshsxxx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-kannooaa-73a069246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kannooaa-73a069246" height="30" width="40" /></a>
-<a href="https://instagram.com/___harsh__s_r_ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___harsh__s_r_ma" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/___harsh__s_r_ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___harsh__s_r_ma" height="30" width="40" /></a> -->
 <a href="https://discord.gg/https://discord.gg/FYN6ekvfKz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FYN6ekvfKz" height="30" width="40" /></a>
 </p>
 
